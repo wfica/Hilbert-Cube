@@ -2,7 +2,7 @@
 
 Draws 3D Hilbert Cube.
 
-![example](out.jpg)
+![example](example.png)
 
 Compilation: ```make```
 
